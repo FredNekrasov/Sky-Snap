@@ -22,3 +22,4 @@ dependencyResolutionManagement {
 rootProject.name = "SkySnap"
 include(":app")
 include(":main")
+include(":search")
