@@ -5,5 +5,6 @@ enum class ConnectionStatus {
     NONE,
     LOADING,
     NO_INTERNET,
+    SERVER_ERROR,
     UNKNOWN
 }
