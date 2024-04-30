@@ -14,6 +14,7 @@
             <option value="$PROJECT_DIR$/main" />
             <option value="$PROJECT_DIR$/search" />
             <option value="$PROJECT_DIR$/tickets" />
+            <option value="$PROJECT_DIR$/uiResources" />
           </set>
         </option>
         <option name="resolveExternalAnnotations" value="false" />
