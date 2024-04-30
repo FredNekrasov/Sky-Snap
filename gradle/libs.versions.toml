@@ -1,7 +1,7 @@
 [versions]
 #plugins
 agp = "8.3.2"
-kotlin = "1.9.22"
+kotlin = "1.9.23"
 #native
 coreKtx = "1.13.0"
 appcompat = "1.6.1"
@@ -46,3 +46,4 @@ androidx-navigation-fragment-ktx = { group = "androidx.navigation", name = "navi
 androidApplication = { id = "com.android.application", version.ref = "agp" }
 jetbrainsKotlinAndroid = { id = "org.jetbrains.kotlin.android", version.ref = "kotlin" }
 androidLibrary = { id = "com.android.library", version.ref = "agp" }
+jetbrainsKotlinJvm = { id = "org.jetbrains.kotlin.jvm", version.ref = "kotlin" }
