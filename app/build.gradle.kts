@@ -52,4 +52,10 @@ dependencies {
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
+
+    implementation(project(":api"))
+    implementation(project(":main"))
+    implementation(project(":search"))
+    implementation(project(":tickets"))
+    implementation(project(":uiResources"))
 }
