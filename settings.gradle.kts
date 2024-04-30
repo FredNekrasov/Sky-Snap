@@ -23,3 +23,4 @@ rootProject.name = "SkySnap"
 include(":app")
 include(":main")
 include(":search")
+include(":tickets")

@@ -12,6 +12,7 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/main" />
             <option value="$PROJECT_DIR$/search" />
+            <option value="$PROJECT_DIR$/tickets" />
           </set>
         </option>
         <option name="resolveExternalAnnotations" value="false" />
